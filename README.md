@@ -1,6 +1,6 @@
 # Ex-10-IMPLEMENTATION OF SIMPLE CODE OPTIMIZATION TECHNIQUES
-# NAME: DHAYANITHI T.
-# REGISTER NUMBER:212221040040
+# NAME: ABISHEK PV
+# REGISTER NUMBER:212222230003
 # Date:10.04.2024
 # Aim:
 To write a C program to implement simple code optimization techniques such as Common subexpression elimination and Dead Code elimination.
